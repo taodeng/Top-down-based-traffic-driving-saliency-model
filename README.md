@@ -1,5 +1,5 @@
-# combined-saliency-model
-combined-saliency-model
+# Top-down-based-traffic-driving-saliency-model
+Top-down-based-traffic-driving-saliency-model
 
 This algorithm is described in the following paper:
 "Where Does the Driver Look? Top-Down Based Saliency Detection in a Traffic Driving Environment. ", by Tao Deng, Kaifu Yang, Yongjie Li, Hongmei Yan.
